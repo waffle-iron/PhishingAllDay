@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+/Phishing/.vs/Phishing/v14
+/Phishing/Phishing.sln
